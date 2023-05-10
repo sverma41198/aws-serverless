@@ -1,4 +1,4 @@
-[![aws-serverless](architecture.png)]
+![aws-serverless](architecture.png)
 
 **API URL:**
 https://don2lr1m89.execute-api.ap-south-1.amazonaws.com/dev
