@@ -33,10 +33,10 @@ def lambda_handler(event, context):
     if name.lower()=='sourabh verma':
         return {
             'statusCode': 200,
-            'body': json.dumps('Hello Hero, ' + name)
+            'body': json.dumps('Hello Admin, ' + name)
         }
     else:
         return {
             'statusCode': 200,
-            'body': json.dumps('Hello chutiya, ' + name)
+            'body': json.dumps('Hello Client, ' + name)
         }
